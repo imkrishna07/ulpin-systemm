@@ -1,5 +1,8 @@
 # 3D ULPIN — Urban Land & Property Intelligence System
 
+Live Demo
+Live Website: https://stellar-seahorse-216141.netlify.app/
+
 A web-based **3D cadastral visualization and vertical property intelligence platform** designed to represent urban land parcels, multi-storey buildings, individual property units, and underground infrastructure in a unified 3D environment.
 
 The project is built as a demonstration frontend for the **3D ULPIN (Urban Land & Property Intelligence System)** concept, with an Amritsar Urban Zone demonstration area.
@@ -210,66 +213,6 @@ The project is configured as a Vite application and uses React 18 with Three.js-
 The application's entry point loads `src/main.tsx`, which initializes the React application and imports the main stylesheet.
 
 ---
-
-## Getting Started
-
-### Prerequisites
-
-Install:
-
-* Node.js
-* npm
-* Git
-
-### 1. Clone the repository
-
-```bash
-git clone https://github.com/YOUR_USERNAME/3d-ulpin-command-center.git
-```
-
-### 2. Enter the project
-
-```bash
-cd 3d-ulpin-command-center
-```
-
-### 3. Install dependencies
-
-```bash
-npm install
-```
-
-### 4. Start the development server
-
-```bash
-npm run dev
-```
-
-Vite will provide a local development URL, typically:
-
-```text
-http://localhost:5173
-```
-
-### 5. Build for production
-
-```bash
-npm run build
-```
-
-### 6. Preview the production build
-
-```bash
-npm run preview
-```
-
-The available npm scripts are defined in `package.json`.
-
----
-
-## Current Demonstration Data
-
-The current version uses **sample/static data** for demonstration purposes.
 
 The frontend contains sample:
 
